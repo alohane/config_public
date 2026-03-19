@@ -3,7 +3,7 @@
     "fuzzypn": {
       "exp": "2026-12-31T23:59:59Z",
       "urls": [
-        "https://ss.fzpn.net/v2/client/subscription-auth?token={token}",
+        "https://ss.fzpn.net/api/v2/client/subscription-auth?token={token}",
         "https://panel2.example.com/api/sub/%s",
         "https://panel3.example.com/api/sub"
       ]

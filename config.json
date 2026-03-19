@@ -1,0 +1,23 @@
+{
+  "items": {
+    "fuzzypn": {
+      "exp": "2026-12-31T23:59:59Z",
+      "urls": [
+        "https://panel1.example.com/api/sub?token={token}",
+        "https://panel2.example.com/api/sub/%s",
+        "https://panel3.example.com/api/sub"
+      ]
+    },
+    "addz1803": {
+      "exp": "2026-10-01T00:00:00Z",
+      "urls": "https://orange-a.example.com/sub?token={token}"
+    },
+    "viefast": {
+      "exp": "2027-01-01T00:00:00Z",
+      "urls": [
+        "https://viefast-1.example.com/sub?token={token}",
+        "https://viefast-2.example.com/sub?token={token}"
+      ]
+    }
+  }
+}
